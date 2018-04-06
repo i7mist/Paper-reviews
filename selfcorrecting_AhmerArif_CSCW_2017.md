@@ -26,6 +26,6 @@ It then moves forward to the description of the state-of-the-art research on thi
 
 ### Methodology
 
-They took a mixed-method approach. First they conducted content-analysis on a set of tweet traces related to two crisis events. They manually classified each unique tweet as to whether it affirms or denies the rumor. Following this, they generated a behavior pattern or 'signature' for each ~user~. They use it to identify individuals that demonstrate different patterns of corrective behavior and used that to select interviewee candidates.
+They took a mixed-method approach. First they conducted content-analysis on a set of tweet traces related to two crisis events. They manually classified each unique tweet as to whether it affirms or denies the rumor. Following this, they generated a behavior pattern or 'signature' for each *user*. They use it to identify individuals that demonstrate different patterns of corrective behavior and used that to select interviewee candidates.
 
 They drew from two distinct rumors/events not to draw sharp comparisons, but to identify convergent themes across rumor participants.
