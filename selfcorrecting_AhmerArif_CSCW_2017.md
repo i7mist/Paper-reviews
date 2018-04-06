@@ -1,7 +1,7 @@
 A Closer Look at the Self-Correcting Crowd:  Examining Corrections in Online Rumors
 ===================================================================================
 
-Link: [](https://faculty.washington.edu/kstarbi/Arif_Starbird_CorrectiveBehavior_CSCW2017.pdf)
+Link: [pdf](https://faculty.washington.edu/kstarbi/Arif_Starbird_CorrectiveBehavior_CSCW2017.pdf)
 
 Ahmer Arif, John J. Robinson, Stephanie A. Stanek, Elodie Fichet+, Paul Townsend, Zena Worku, Kate Starbird HCDE, Department of Communication+ University of Washington, Seattle WA, 98195 {ahmer, soco, fjchou, stanek14, efichet, pjt33, zenaget, kstarbi}@uw.edu
 
