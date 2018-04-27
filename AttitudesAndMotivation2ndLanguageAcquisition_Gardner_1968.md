@@ -15,6 +15,7 @@ R.C.Gardner
 ### Takeaways and inspirations
 * Since the integrative motive has shown a great positive influence on the achievement of the second language, is there other ways aside from the atmosphere from home that are easy to orchestrate, so that we can promote this type of motivation for the language learner?
 * According to the [Motivation in second-language learning]() Wikipedia entry, there is a model called Attitude Motivation Test Battery to quantify the motivation to study a certain L2. Among all four aspects in this model, there is one called "Attitude toward learning situation":
-```Contrary to integrativeness, the attitude towards learning situation accounts for the education context of L2 acquisition and the affective facts that correspond with it. The AMTB measures this variable by asking the individual to evaluate the teacher and the course in the educational context. This determines how much the educational context aids in improving L2 performance.
+```
+Contrary to integrativeness, the attitude towards learning situation accounts for the education context of L2 acquisition and the affective facts that correspond with it. The AMTB measures this variable by asking the individual to evaluate the teacher and the course in the educational context. This determines how much the educational context aids in improving L2 performance.
 ```
 Consequently, I'm curious whether selecting materials that the learners are more interested in can improve this dimension of motivation?
