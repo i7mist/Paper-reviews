@@ -3,6 +3,7 @@ ViVo: Video-Augmented Dictionary for Vocabulary Learning
 
 Yeshuang Zhu, Yuntao Wang, Chun Yu, Shaoyun Shi, Yankai Zhang, Shuang He, Peijun Zhao, Xiaojuan Ma, Yuanchun Shi
 ----------------------------------------------------------------------------------------------------------------
+[pdf](http://delivery.acm.org/10.1145/3030000/3025779/p5568-zhu.pdf?ip=128.237.209.200&id=3025779&acc=ACTIVE%20SERVICE&key=A792924B58C015C1%2E5A12BE0369099858%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1525212541_be1df525ddc992b74e8e8850a88a2f7e)
 
 ### Main contribution:
 * designed, built, and evaluated a system that could facilitated vocabulary building by augmenting video resources.
@@ -21,5 +22,5 @@ Yeshuang Zhu, Yuntao Wang, Chun Yu, Shaoyun Shi, Yankai Zhang, Shuang He, Peijun
 ### Research opportunities
 * How to extend from memorizing the word to using the word? Can we help language learners form spontaneous conversations by properly orchestrating the video resources?
   - For example, in the discussion of the "repeated" factor that made some words appeared in that video easy to remember, one example was that P6 expressed that he would “never forget the word sergeant for the rest of life as it is repeated in too many scenes in Forrest Gump”. However, when will this kind of learning be helpful?
-* Can we teach language learners interaction techniques rather than specific words? It's more related to certain contexts and the culture aspects of language learning.
+* Can we teach language learners interaction techniques rather than specific words? It's more related to certain contexts and the culture aspects of language learning. For example, how to do small talk?
 * Will it be a good idea to force people to **use** a word in one's life?
