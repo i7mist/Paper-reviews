@@ -23,4 +23,4 @@ Yeshuang Zhu, Yuntao Wang, Chun Yu, Shaoyun Shi, Yankai Zhang, Shuang He, Peijun
 * How to extend from memorizing the word to using the word? Can we help language learners form spontaneous conversations by properly orchestrating the video resources?
   - For example, in the discussion of the "repeated" factor that made some words appeared in that video easy to remember, one example was that P6 expressed that he would “never forget the word sergeant for the rest of life as it is repeated in too many scenes in Forrest Gump”. However, when will this kind of learning be helpful?
 * Can we teach language learners interaction techniques rather than specific words? It's more related to certain contexts and the culture aspects of language learning. For example, how to do small talk?
-* Will it be a good idea to force people to **use** a word in one's life?
+* How to work desirable difficulties from learning theories in the context of out-of-class language learning process? Will it be a good idea to force people to **use** a word in one's life?
