@@ -35,3 +35,8 @@ An array of papers related to language learning
 * [Interpreting successful lingua franca interaction. An analysis of non-native-/non-native small talk conversations in English.](https://bop.unibe.ch/linguistik-online/article/view/1013/1673%20στις%2015)
 * [Identifying Sarcasm in Twitter: A Closer Look](https://aclanthology.info/pdf/P/P11/P11-2102.pdf)
 * [Second language acquisition in a study abroad context](https://books.google.com/books?hl=en&lr=&id=0lbd7jNZ4MQC&oi=fnd&pg=PR1&dq=language+learning+humor&ots=ynfXz6Jjjr&sig=kco8zSSWN5zJlPLAPJrRkiloZqY#v=onepage&q=language%20learning%20humor&f=false)
+* [The role of dictionaries in language learning](https://books.google.com/books?hl=en&lr=&id=j2LXAwAAQBAJ&oi=fnd&pg=PA111&dq=language+learning+connotation&ots=ikAWP7Ngi_&sig=YnJJmDUXjZrLPsvBlrRLxZFIXvo#v=onepage&q=language%20learning%20connotation&f=false)
+* [ANALYSIS OF MOTIVATION COMPONENTS IN FOREIGN LANGUAGE LEARNING](https://files.eric.ed.gov/fulltext/ED323810.pdf)
+* [Second language learning as participation and the (re)construction of selves](https://books.google.com/books?hl=en&lr=&id=imwsewtZKSMC&oi=fnd&pg=PA155&dq=language+learning+connotation&ots=5QJ5oXbL-D&sig=tndDBy9LjSk7mNs3pZR6KQAWiKM#v=onepage&q=language%20learning%20connotation&f=false)
+* [Pragmatic Problems of Chinese EL Learners with Native Speakers](http://en.cnki.com.cn/Article_en/CJFDTOTAL-WJYY198603010.htm)
+* [Understanding culture's influence on behavior.](http://psycnet.apa.org/record/1992-98435-000)
