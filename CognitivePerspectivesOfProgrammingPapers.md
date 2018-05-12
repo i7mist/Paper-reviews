@@ -25,3 +25,9 @@ A list of papers that examined programming with the lens of cognitive science
 * [Comparison of Three Eye Tracking Devices in Psychology of Programming Research](http://www.cs.joensuu.fi/~saja/var_roles/abstracts/ppig04_ne_sa.pdf)
 
 ### Cognitive style and programming
+
+### Expert and novice developers have different performance if programming tasks, because:
+  - Different skills to comprehend the program behavior without running it.
+    - (Debugging by skilled and novice programmers)[https://dl.acm.org/citation.cfm?id=22367]
+
+### The implications of the various choices of information sources
