@@ -20,6 +20,11 @@ A list of papers that examined programming with the lens of cognitive science
   - Understanding the problem: set up some form of problem representation in the working memory initially
   - Designing and planning: planning-in-action vs. preplanning; plans are highly hierarchical.
     - There are four basic types of program information: 1) the purpose/function of a particular plan unit; 2) the structure of the data objects; 3) the sequencing of operations (control flow); 4) the transformation of data objects (data flow)
+    - 6 knowledge schemas are discussed
+    - symbolic execution plays an important role
+  - Program coding: (1) ability to engage in hypothetical symbolic exe- cution of code; (2) ability to learn the coding templates that define the syntactical knowledge necessary for code generation : and
+(3) *ability to keep to the goal at hand, or program plan, unless deviations from it are required to generate the code*
+  - 
 
 ### Studying the cognitive process of programming using eye tracking
 * [An eye-tracking methodology for characterizing program comprehension processes](https://www.tandfonline.com/doi/abs/10.1080/00011037.1980.11008282)
@@ -32,6 +37,7 @@ A list of papers that examined programming with the lens of cognitive science
     - [Debugging by skilled and novice programmers](https://dl.acm.org/citation.cfm?id=22367)
 
 ### The implications of the various choices of information sources (stack overflow, opensource movement, libraries)
+  - Is there a shift of focus from planning for developmeng to finding the right information sources and the right assistive tools or libraries to achieve the goal?
 
 ### The implications of the change of focus: developers today need to consider issues that were less of a concern in the past, such as privacy.
 
@@ -39,3 +45,5 @@ A list of papers that examined programming with the lens of cognitive science
   - Exploratory programming [Variolite: Supporting Exploratory Programming by Data Scientists](http://marybethkery.com/resources/Papers/variolite-supporting-exploratory-programming.pdf)
   - Opportunistic programming [Opportunistic Programming: How Rapid Ideation and Prototyping Occur in Practice
 Joel](http://hci.stanford.edu/publications/2008/brandt_weuse08.pdf)
+    - Lacks an explicit program designing and planning stage. I have the following intuition that the approach that many developers may employ today is to directly search their goal, and actively seek code examples in the results. Then they will read and try to comprehend the examples, and try to adapt them to their needs.
+    - However, this may cause some trouble, such as introducing security breaches when reuse code from Q&A sites.
