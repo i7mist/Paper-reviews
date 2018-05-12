@@ -31,3 +31,5 @@ A list of papers that examined programming with the lens of cognitive science
     - (Debugging by skilled and novice programmers)[https://dl.acm.org/citation.cfm?id=22367]
 
 ### The implications of the various choices of information sources
+
+### The implications of the change of focus: developers today need to consider issues that were less of a concern in the past, such as privacy.
