@@ -22,9 +22,33 @@ A list of papers that examined programming with the lens of cognitive science
     - There are four basic types of program information: 1) the purpose/function of a particular plan unit; 2) the structure of the data objects; 3) the sequencing of operations (control flow); 4) the transformation of data objects (data flow)
     - 6 knowledge schemas are discussed
     - symbolic execution plays an important role
-  - Program coding: (1) ability to engage in hypothetical symbolic exe- cution of code; (2) ability to learn the coding templates that define the syntactical knowledge necessary for code generation : and
+  - Program coding: (1) ability to engage in hypothetical symbolic execution of code; (2) ability to learn the coding templates that define the syntactical knowledge necessary for code generation : and
 (3) *ability to keep to the goal at hand, or program plan, unless deviations from it are required to generate the code*
-  - 
+  - program debugging:
+    - program understanding is mediated by a hierarchical representation of three levels: (1) deep plans (purpose); (2) surface plans (in program structure); and (3) definitions of data objects, properties, and 110 specifications for program code segments.
+  - Some factors influence programming skill development:
+    - Similarly, one characteristic of expert programmers (Kurland & Pea, in preparation) is they know many different lan- guages. For any particular programming job, they tend to select the language best suited for that application taking into account the specific machine and operating environment in which they will be working.
+    - The lesson to be learned is that the speafic language chosen probably does not make a big difference, at least for adults. Far more important in carrying the variance for computer programming expertise are issues such as the resources that are available in the programming environment, how programming instruction occurs, and the amount of program writing, reading, and debugging students engage in.
+    - How much instructions, if any, is the best when introducing children to computer programming? There were two extremes. One extreme was to give them detailed instructions on a set of computer programming constructs to build a set of sample programs. The other extreme is to give little instruction but to encourage them to explore possibilities, which is called the "enlightenment idea" (popularized by Papert (1980) in his book Mindstorm).
+    - In contrast to highly skilled programmers, as many adults learn to program they reveal deep misunderstandings of computer programming concepts and how different lines of programming code relate to one another in program organization (Bonar & Soloway, 1982; Jeffries, 1982; Sheil, 1980, 1981a; Soloway, Bonar & Ehrlich, 1983; Soloway, Ehrlich, Bonar & Greenspan, 1982)
+  - What knowledge is required for programming?
+    - Only anecdotal evidence is available. Prior research has suffered from biases.
+    - Even a student who aspires only to be a programmer needs more than just programming skills. He or she needs to understand issues of design, of the capability and potential of software, hardware, and theory, and of algorithms and information organization in general.
+    - What are some of the most plausible a priori candidates for cognitive demands of programming? While no research has been directly aimed at defining the cognitive prerequisites for learning computer programming (it has asked who will do it better, predictively, rather than who can do it at all), at least five factors have been mentioned frequently: (1) mathematical ability, (2) memory capacity, ( 3 ) analogical reasoning skills, (4) con- ditional reasoning skills, and (5) procedural thinking skills. These cognitive abilities are presumed to have an impact on or to mediate computer programming learning in a number of ways.
+  - Multiple types of programming: system programming, application programming, diagnostic programming, program maintenance
+  - Multiple types of programmers: (1) professional programmers; (2) occasional programmers; and (3) programmer hobbyists.
+  - Different evaluation criteria with respect to different kinds of programming: In industry1 business, the emphasis is on rapid programming; in games, compact code; in some educational software, developmental structure of materi- als and problems. Personal programming may be workable, buggy, undocumented, and unreliable for some inputs which might be entered if other people were to use the program...
+  - Collaborative environment
+- Programming aptitude measurement
+  - Although most studies in whish programming aptitude test scores correlated significantly with programming "ssucess"(general1y indi- cated by grades in industrial programming training courses or college programming courses) o-bserved that "general intelligence'! (when test scores were available) also correlated very highly with programming success, this does not seem to have moved the researchers to go further and ask whether the "programming aptitude" supposedly linked to programming skill constituted a specific aptitude factor above and beyond "general intelligence.
+- Programming aptitude prediction
+  - deductive reasoning ability
+  - problem-solving style:
+    - there is a significant correlation between field independence and success ina college COBOL programming course.
+    - there is a significant correlation between the score of a BASIC programming examination and "analytic" as opposed to "heuristic" cognitive style. Cheney suggests that those scor- ing highly on the style measure, and presumed to be "analytic," may learn programming best by progressing at their own rate on program- ming projects, but that the "heuristic" thinkers may require more structured and formal teaching to understand how to program.
+    - These cognitive style differences do not explain the differences of program skills, aka the different performance pertaining to the cognitive subtasks for programming. They do offer suggestions that cognitive style interacts with how one is taught programming.
+    
+
 
 ### Studying the cognitive process of programming using eye tracking
 * [An eye-tracking methodology for characterizing program comprehension processes](https://www.tandfonline.com/doi/abs/10.1080/00011037.1980.11008282)
