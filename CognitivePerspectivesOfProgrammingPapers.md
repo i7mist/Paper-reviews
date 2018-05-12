@@ -30,6 +30,11 @@ A list of papers that examined programming with the lens of cognitive science
   - Different skills to comprehend the program behavior without running it.
     - [Debugging by skilled and novice programmers](https://dl.acm.org/citation.cfm?id=22367)
 
-### The implications of the various choices of information sources
+### The implications of the various choices of information sources (stack overflow, opensource movement, libraries)
 
 ### The implications of the change of focus: developers today need to consider issues that were less of a concern in the past, such as privacy.
+
+### Similar to the previous one, the programming goal is also changing.
+  - Exploratory programming [Variolite: Supporting Exploratory Programming by Data Scientists](http://marybethkery.com/resources/Papers/variolite-supporting-exploratory-programming.pdf)
+  - Opportunistic programming [Opportunistic Programming: How Rapid Ideation and Prototyping Occur in Practice
+Joel](http://hci.stanford.edu/publications/2008/brandt_weuse08.pdf)
