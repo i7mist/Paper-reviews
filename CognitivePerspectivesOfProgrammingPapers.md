@@ -28,7 +28,7 @@ A list of papers that examined programming with the lens of cognitive science
 
 ### Expert and novice developers have different performance if programming tasks, because:
   - Different skills to comprehend the program behavior without running it.
-    - (Debugging by skilled and novice programmers)[https://dl.acm.org/citation.cfm?id=22367]
+    - [Debugging by skilled and novice programmers](https://dl.acm.org/citation.cfm?id=22367)
 
 ### The implications of the various choices of information sources
 
