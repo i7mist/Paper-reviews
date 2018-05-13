@@ -71,3 +71,6 @@ A list of papers that examined programming with the lens of cognitive science
 Joel](http://hci.stanford.edu/publications/2008/brandt_weuse08.pdf)
     - Lacks an explicit program designing and planning stage. I have the following intuition that the approach that many developers may employ today is to directly search their goal, and actively seek code examples in the results. Then they will read and try to comprehend the examples, and try to adapt them to their needs.
     - However, this may cause some trouble, such as introducing security breaches when reuse code from Q&A sites.
+    
+### Knowledge organization
+  - [Knowledge Organization and Skill Differences in Computer Programmers](http://spider.sci.brooklyn.cuny.edu/~kopec/research/sdarticle11.pdf) Expert developers not only have more information, they also better organize this information into useful chunks. Begninner developers organize information based on langauge associations, while expert developers organize information based on programming language knowledge.
