@@ -47,8 +47,6 @@ A list of papers that examined programming with the lens of cognitive science
     - there is a significant correlation between field independence and success ina college COBOL programming course.
     - there is a significant correlation between the score of a BASIC programming examination and "analytic" as opposed to "heuristic" cognitive style. Cheney suggests that those scor- ing highly on the style measure, and presumed to be "analytic," may learn programming best by progressing at their own rate on program- ming projects, but that the "heuristic" thinkers may require more structured and formal teaching to understand how to program.
     - These cognitive style differences do not explain the differences of program skills, aka the different performance pertaining to the cognitive subtasks for programming. They do offer suggestions that cognitive style interacts with how one is taught programming.
-    
-
 
 ### Studying the cognitive process of programming using eye tracking
 * [An eye-tracking methodology for characterizing program comprehension processes](https://www.tandfonline.com/doi/abs/10.1080/00011037.1980.11008282)
@@ -71,6 +69,6 @@ A list of papers that examined programming with the lens of cognitive science
 Joel](http://hci.stanford.edu/publications/2008/brandt_weuse08.pdf)
     - Lacks an explicit program designing and planning stage. I have the following intuition that the approach that many developers may employ today is to directly search their goal, and actively seek code examples in the results. Then they will read and try to comprehend the examples, and try to adapt them to their needs.
     - However, this may cause some trouble, such as introducing security breaches when reuse code from Q&A sites.
-    
+  - One data point suggests that when programmers are learning new libraries, as much as one-third of their code is directly taken from examples in documentation [Designing interactions that combine pen, paper, and computer](https://dl.acm.org/citation.cfm?id=1369304)
 ### Knowledge organization
   - [Knowledge Organization and Skill Differences in Computer Programmers](http://spider.sci.brooklyn.cuny.edu/~kopec/research/sdarticle11.pdf) Expert developers not only have more information, they also better organize this information into useful chunks. Begninner developers organize information based on langauge associations, while expert developers organize information based on programming language knowledge.
