@@ -47,14 +47,19 @@ A list of papers that examined programming with the lens of cognitive science
     - there is a significant correlation between field independence and success ina college COBOL programming course.
     - there is a significant correlation between the score of a BASIC programming examination and "analytic" as opposed to "heuristic" cognitive style. Cheney suggests that those scor- ing highly on the style measure, and presumed to be "analytic," may learn programming best by progressing at their own rate on program- ming projects, but that the "heuristic" thinkers may require more structured and formal teaching to understand how to program.
     - These cognitive style differences do not explain the differences of program skills, aka the different performance pertaining to the cognitive subtasks for programming. They do offer suggestions that cognitive style interacts with how one is taught programming.
-  - [](https://s3.amazonaws.com/academia.edu.documents/30981043/10.1.1.54.3584.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1526594714&Signature=4G453kFWjrwXiURlJwzy52tOWww%3D&response-content-disposition=inline%3B%20filename%3DUsability_Analysis_of_Visual_Programming.pdf)
-    - Mental representations
-    - Order of program development
-    - Effect of environment
-    - From problem to program
-      - inherent goal vs planning goal
-    - Understanding and evaluating the program
-      - So textual languages may include perceptual cues, such as indenting or choice of typeface, or symbolic cues [26]. Alternatively, the environment may offer comprehension aids, such as software visualization tools [20], which present their information in a structure that highlights what the programmer wants to know.
+  - [Usability Analysis of Visual Programming Environments: a ‘cognitive dimensions’ framework](https://s3.amazonaws.com/academia.edu.documents/30981043/10.1.1.54.3584.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1526594714&Signature=4G453kFWjrwXiURlJwzy52tOWww%3D&response-content-disposition=inline%3B%20filename%3DUsability_Analysis_of_Visual_Programming.pdf)
+    - Psychology of programming
+      - Mental representations
+      - Order of program development
+      - Effect of environment
+      - From problem to program
+        - inherent goal vs planning goal
+      - Understanding and evaluating the program
+        - So textual languages may include perceptual cues, such as indenting or choice of typeface, or symbolic cues [26]. Alternatively, the environment may offer comprehension aids, such as software visualization tools [20], which present their information in a structure that highlights what the programmer wants to know.
+    - Design implications in IDE
+      - Secondary notation
+        - Role-expressiveness is presumably enhanced by the use of meaningful identifiers [84], by well-structured modularity, by the use of secondary notation to signal functionally-related groupings, and by the presence of ‘beacons’ that signify certain highly diagnostic code structures [88]. We note with interest that not all of these are readily available in our two target languages.
+
 
 ### Studying the cognitive process of programming using eye tracking
 * [An eye-tracking methodology for characterizing program comprehension processes](https://www.tandfonline.com/doi/abs/10.1080/00011037.1980.11008282)
