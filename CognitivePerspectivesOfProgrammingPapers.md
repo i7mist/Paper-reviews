@@ -54,6 +54,7 @@ A list of papers that examined programming with the lens of cognitive science
     - From problem to program
       - inherent goal vs planning goal
     - Understanding and evaluating the program
+      - So textual languages may include perceptual cues, such as indenting or choice of typeface, or symbolic cues [26]. Alternatively, the environment may offer comprehension aids, such as software visualization tools [20], which present their information in a structure that highlights what the programmer wants to know.
 
 ### Studying the cognitive process of programming using eye tracking
 * [An eye-tracking methodology for characterizing program comprehension processes](https://www.tandfonline.com/doi/abs/10.1080/00011037.1980.11008282)
