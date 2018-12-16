@@ -26,6 +26,11 @@ Fairness
 
 * [Predict Responsibly: Improving Fairness and Accuracy by Learning to Defer](http://papers.nips.cc/paper/7853-predict-responsibly-improving-fairness-and-accuracy-by-learning-to-defer)
 
+* [Does mitigating ML's impact disparity require treatment disparity?](http://papers.nips.cc/paper/8035-does-mitigating-mls-impact-disparity-require-treatment-disparity)
+
+* [Enhancing the Accuracy and Fairness of Human Decision Making](http://papers.nips.cc/paper/7448-enhancing-the-accuracy-and-fairness-of-human-decision-making)
+
+* [The Price of Fair PCA: One Extra dimension](http://papers.nips.cc/paper/8294-the-price-of-fair-pca-one-extra-dimension)
 
 Trust
 -----
@@ -36,3 +41,8 @@ Predictability
 --------------
 
 * [Evidential Deep Learning to Quantify Classification Uncertainty](http://papers.nips.cc/paper/7580-evidential-deep-learning-to-quantify-classification-uncertainty)
+
+Private learning
+----------------
+
+* [Model-Agnostic Private Learning](http://papers.nips.cc/paper/7941-model-agnostic-private-learning)
